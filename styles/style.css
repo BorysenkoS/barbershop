@@ -256,6 +256,8 @@ a {
 /* Services and prices Section */
 .services {
   background-color: var(--primarry-text-color);
+  background-image: url(../images/services.svg);
+  background-size: cover;
 }
 
 .services-text {
